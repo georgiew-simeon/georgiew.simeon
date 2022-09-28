@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darks1mo
 - 👀 I’m interested in Java, Selenium, Automated testing.
-- 🌱 I’m currently learning ...Java Proggraming!
+- 🌱 I’m currently learning Java Proggraming!
 - 📫 How to reach me @ simeon.georgiev@cleverpine.com
 
 <!---
